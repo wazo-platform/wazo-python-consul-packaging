@@ -1,5 +1,11 @@
-xivo-python-consul-packaging (0.3.16) UNRELEASED; urgency=medium
+xivo-python-consul-packaging (0.3.16-2) xivo-dev; urgency=medium
+
+  * bump version
+
+ -- Pascal Cadotte Michaud <pcadottemichaud@avencall.com>  Fri, 01 May 2015 14:14:52 -0400
+
+xivo-python-consul-packaging (0.3.16-1) xivo-dev; urgency=medium
 
   * Initial release.
 
- -- Pascal Cadotte Michaud <pcadottemichaud@avencall.com>  Fri, 01 May 2015 10:32:24 -0400
+ -- Pascal Cadotte Michaud <pcadottemichaud@avencall.com>  Fri, 01 May 2015 14:14:07 -0400
