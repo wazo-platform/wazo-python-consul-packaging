@@ -1,4 +1,4 @@
-Source: python-consul
+Source: xivo-python-consul-packaging
 Section: python
 Priority: extra
 Maintainer: XiVO Dev Team <dev@avencall.com>
