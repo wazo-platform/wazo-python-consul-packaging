@@ -1,0 +1,5 @@
+python-consul (0.3.16-1) UNRELEASED; urgency=medium
+
+  * Initial release.
+
+ -- Pascal Cadotte Michaud <pcadottemichaud@avencall.com>  Fri, 01 May 2015 10:32:24 -0400
