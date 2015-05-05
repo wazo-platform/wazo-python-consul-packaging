@@ -1,3 +1,5 @@
+tmp/
+
 # python
 *.pyc
 *.pyo

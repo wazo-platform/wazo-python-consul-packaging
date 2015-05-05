@@ -1,4 +1,4 @@
- # The packaging information for python-consul in XiVO
+# The packaging information for python-consul in XiVO
 
 This repository contains the packaging information for
 [python-consul](http://python-consul.readthedocs.org).
