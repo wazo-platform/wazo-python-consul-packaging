@@ -17,15 +17,15 @@
 set -e
 
 VERSION=$(cat VERSION)
-URL="https://github.com/cablehead/python-consul/archive/v${VERSION}.tar.gz"
 FILENAME="python-consul_${VERSION}.orig.tar.gz"
+URL="https://github.com/cablehead/python-consul/archive/v${VERSION}.tar.gz"
 
-rm -rf "tmp"
-mkdir "tmp"
-cd "tmp"
+rm -rf tmp
+mkdir tmp
+cd tmp
 
 wget -nv -O "${FILENAME}" "${URL}"
 tar xf "${FILENAME}"
 
-cd ".."
-rsync -av "tmp/python-consul-${VERSION}/" "."
+cd ..
+rsync -av "tmp/python-consul-${VERSION}/" .
