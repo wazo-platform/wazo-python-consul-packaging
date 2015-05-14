@@ -1,3 +1,9 @@
+xivo-python-consul-packaging (0.3.17-1~xivo1) xivo-dev; urgency=medium
+
+  * python-consul 0.3.17
+
+ -- Pascal Cadotte Michaud <pcadottemichaud@avencall.com>  Thu, 14 May 2015 09:16:27 -0400
+
 xivo-python-consul-packaging (0.3.16-2) xivo-dev; urgency=medium
 
   * bump version
