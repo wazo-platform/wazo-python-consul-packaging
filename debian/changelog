@@ -1,3 +1,9 @@
+xivo-python-consul-packaging (0.4.7-1~xivo1) xivo-dev; urgency=low
+
+  * new upstream release (0.4.7)
+
+ -- Sebastien Duthil <sduthil@avencall.com>  Mon, 09 Nov 2015 13:40:21 -0500
+
 xivo-python-consul-packaging (0.4.5-1~xivo1) xivo-dev; urgency=medium
 
   * new upstream release (0.4.5)
