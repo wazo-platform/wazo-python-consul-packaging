@@ -10,6 +10,6 @@ Homepage: http://python-consul.readthedocs.org
 
 Package: python-consul
 Architecture: all
-Depends: ${shlibs:Depends}, ${python:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${python:Depends}, ${misc:Depends}, python-requests (>= 2.0.0)
 Description: Python client for Consul.io
  .
