@@ -1,8 +1,17 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
+export PYBUILD_NAME=consul
+export PYBUILD_DISABLE=test
+
 %:
-	dh $@ --with python2
+	dh $@ --with python2,python3 --buildsystem=pybuild
+
+override_dh_auto_clean:
+	if [ -f setup.py ]; then dh_auto_clean; fi
+
+override_dh_auto_configure:
+	if [ -f setup.py ]; then dh_auto_configure; fi
 
 override_dh_auto_build:
 	./fetch_tarball.sh

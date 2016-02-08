@@ -1,3 +1,9 @@
+xivo-python-consul-packaging (0.4.7-2~xivo3) xivo-dev; urgency=medium
+
+  * add python3 package
+
+ -- Etienne Lessard <elessard@avencall.com>  Mon, 08 Feb 2016 08:39:18 -0500
+
 xivo-python-consul-packaging (0.4.7-2~xivo1) xivo-dev; urgency=low
 
   * new upstream release (0.4.7)
