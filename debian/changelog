@@ -1,3 +1,9 @@
+xivo-python-consul-packaging (0.7.0-1~wazo2) wazo-dev; urgency=medium
+
+  * update for stretch
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Tue, 09 Jan 2018 14:25:16 -0500
+
 xivo-python-consul-packaging (0.7.0-1~wazo1) wazo-dev; urgency=medium
 
   * update version
