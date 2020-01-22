@@ -1,3 +1,9 @@
+xivo-python-consul-packaging (1.1.0-1~wazo2) wazo-dev-buster; urgency=medium
+
+  * rebuild
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Fri, 24 Jan 2020 13:45:03 +0100
+
 xivo-python-consul-packaging (1.1.0-1~wazo1) wazo-dev-buster; urgency=medium
 
   * Bump to version 1.1.0 

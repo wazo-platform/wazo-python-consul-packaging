@@ -13,5 +13,5 @@ override_dh_auto_clean:
 override_dh_auto_configure:
 	if [ -f setup.py ]; then dh_auto_configure; fi
 
-override_dh_auto_build:
+get-orig-source:
 	./fetch_tarball.sh
