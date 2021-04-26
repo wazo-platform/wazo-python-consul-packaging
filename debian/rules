@@ -1,6 +1,9 @@
 #!/usr/bin/make -f
 # -*- makefile -*-
 
+# Uncomment this to turn on verbose mode.
+# export DH_VERBOSE=1
+
 export PYBUILD_NAME=consul
 export PYBUILD_DISABLE=test
 
@@ -12,6 +15,8 @@ override_dh_auto_clean:
 
 override_dh_auto_configure:
 	if [ -f setup.py ]; then dh_auto_configure; fi
+
+.PHONY: get-orig-source
 
 get-orig-source:
 	./fetch_tarball.sh
