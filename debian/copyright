@@ -8,6 +8,3 @@ License: MIT
 
 Files: debian/*
 License: GPL-3
-
-Files: fetch_tarbar.sh
-License: GPL-3
