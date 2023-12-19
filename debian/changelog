@@ -1,3 +1,9 @@
+wazo-python-consul-packaging (1.1.0-1~wazo7) wazo-dev-bullseye; urgency=medium
+
+  * Rename source package to wazo-python-consul-packaging
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Tue, 19 Dec 2023 13:59:48 -0500
+
 xivo-python-consul-packaging (1.1.0-1~wazo6) wazo-dev-bullseye; urgency=medium
 
   * Bullseye build
