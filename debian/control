@@ -1,4 +1,4 @@
-Source: xivo-python-consul-packaging
+Source: wazo-python-consul-packaging
 Section: python
 Priority: optional
 Maintainer: Wazo Maintainers <dev@wazo.community>
