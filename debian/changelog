@@ -1,3 +1,9 @@
+wazo-python-consul-packaging (1.1.0-1~wazo9) wazo-dev-bookworm; urgency=medium
+
+  * Rebuild for bookworm
+
+ -- Wazo Maintainers <dev+pkg@wazo.community>  Tue, 09 Sep 2025 11:58:35 -0400
+
 wazo-python-consul-packaging (1.1.0-1~wazo8) wazo-dev-bullseye; urgency=medium
 
   * follow debian copyright guidelines
